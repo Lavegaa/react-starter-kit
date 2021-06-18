@@ -2,6 +2,8 @@
 
 webpack과 babel을 사용해 react의 기초 설정을 했다.
 
++ github actions
+
 ## webpack
 
 - webpack
